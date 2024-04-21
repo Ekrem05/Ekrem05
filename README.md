@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi, I'm Ekrem, a software developer proficient in C# and JavaScript.
+
+💻 Backend Skills: Specializing in backend development, I excel in creating scalable solutions using ASP.NET Core and Node.js. I have experience with managing SQl databases.
+
+🎨 Frontend Proficiency: I'm also skilled in frontend development, utilizing HTML and CSS to create sleek and responsive user interfaces.
+
+🔧 Problem-Solver: I tackle complex challenges, optimize performance, and ensure security in backend systems.
+
+🚀 Passionate: I'm driven by innovation and eager to explore new technologies to enhance backend practices.
+
+🔍 Seeking Opportunities: Ready for new challenges and eager to contribute to impactful projects.
+
+💻 Skills: I am proficient in the C# ecosystem SQL. I have experience with web development, mobile app development, and database management.
+
+🚀 Passion for Innovation: I thrive on innovation and love exploring emerging technologies to create efficient and user-friendly solutions. Whether it's developing sleek web applications or crafting robust backend systems, I'm always excited to push the boundaries of what's possible.
+
+🔍 Open to New Opportunities: I am currently seeking new opportunities where I can leverage my skills and expertise to drive impactful projects forward. Whether it's a challenging software development role, a dynamic startup environment, or a collaborative team setting, I'm ready to dive in and contribute my best.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ekrem05&hide=issues&show_icons=true&theme=great-gatsby&bg_color=00000000)
 <h3 align="left">Languages and Tools:</h3>
