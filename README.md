@@ -1,6 +1,6 @@
 ### Hi, I'm Ekrem, a software developer proficient in C# and JavaScript.
 
-💻 Backend Skills: Specializing in backend development, I excel in creating scalable solutions using ASP.NET Core and Node.js. I have experience with managing SQL databases.
+💻 Backend Skills: Specializing in backend development, I excel in creating scalable solutions using ASP.NET Core. I'm highly skilled in working with relational databases.
 
 🎨 Frontend Proficiency: I'm also skilled in frontend development, utilizing HTML and CSS to create sleek and responsive user interfaces.
 
