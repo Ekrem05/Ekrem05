@@ -12,7 +12,77 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ekrem05&hide=issues&show_icons=true&theme=great-gatsby&bg_color=00000000)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 481.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 344 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 8 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+🌆 Daytime                300 commits         ██████████░░░░░░░░░░░░░░░   38.02 % 
+🌃 Evening                420 commits         █████████████░░░░░░░░░░░░   53.23 % 
+🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   194 commits         ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+Tuesday                  156 commits         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+Wednesday                170 commits         █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
+Thursday                 92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Friday                   32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+Saturday                 9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Sunday                   136 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Kyiv
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               8 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+C#                       5 repos             ████████░░░░░░░░░░░░░░░░░   31.25 % 
+HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Ekrem05/Ekrem05/main/assets/bar_graph.png)
+
+
+ Last Updated on 23/05/2024 13:59:18 UTC
 <!--END_SECTION:waka-->
  <h1 align="center">Tech Background 🌐</h1>
     <br />
