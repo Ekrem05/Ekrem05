@@ -12,17 +12,15 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ekrem05&hide=issues&show_icons=true&theme=great-gatsby&bg_color=00000000)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.2%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-🌆 Daytime                305 commits         ██████████░░░░░░░░░░░░░░░   38.27 % 
-🌃 Evening                423 commits         █████████████░░░░░░░░░░░░   53.07 % 
-🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+🌞 Morning                68 commits          ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.52 % 
+🌆 Daytime                305 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   38.22 % 
+🌃 Evening                424 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   53.13 % 
+🌙 Night                  1 commits           ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.13 % 
 ```
 
 
@@ -44,12 +42,8 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Ekrem05/Ekrem05/main/assets/bar_graph.png)
-
-
- Last Updated on 23/05/2024 15:17:27 UTC
+ Last Updated on 23/05/2024 15:21:27 UTC
 <!--END_SECTION:waka-->
  <h1 align="center">Tech Background 🌐</h1>
     <br />
