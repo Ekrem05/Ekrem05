@@ -18,7 +18,9 @@ jobs:
           API_BASE_URL: https://wakatime.com/api # optional
           REPOSITORY: YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME # optional
           ###mine
-          SHOW_TOTAL: false
+          SHOW_LOC_CHART: false
+          SYMBOL_VERSION: 3
+          SHOW_TOTAL_CODE_TIME: false
           SHOW_LINES_OF_CODE: true
           SHOW_PROFILE_VIEWS: false
           SHOW_COMMIT: true
