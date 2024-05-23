@@ -12,15 +12,72 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ekrem05&hide=issues&show_icons=true&theme=great-gatsby&bg_color=00000000)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-```rust
-From: 22 May 2024 - To: 22 May 2024
+![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
 
-Total Time: 0 secs
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.2%20million%20lines%20of%20code-blue)
 
-No activity tracked
+**🐱 My GitHub Data** 
+
+> 📦 481.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 345 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 8 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+🌆 Daytime                301 commits         ██████████░░░░░░░░░░░░░░░   38.10 % 
+🌃 Evening                420 commits         █████████████░░░░░░░░░░░░   53.16 % 
+🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   194 commits         ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+Tuesday                  156 commits         █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+Wednesday                170 commits         █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+Thursday                 93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Friday                   32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Saturday                 9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Sunday                   136 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Kyiv
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               8 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+C#                       5 repos             ████████░░░░░░░░░░░░░░░░░   31.25 % 
+HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+```
+
+
+
+
+ Last Updated on 23/05/2024 14:05:04 UTC
 <!--END_SECTION:waka-->
  <h1 align="center">Tech Background 🌐</h1>
     <br />
