@@ -51,7 +51,7 @@ Windows                  1 hr 7 mins         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 ```
 
 
- Last Updated on 26/05/2024 18:35:03 UTC
+ Last Updated on 27/05/2024 18:36:12 UTC
 <!--END_SECTION:waka-->
  <h1 align="center">Tech Background 🌐</h1>
     <br />
