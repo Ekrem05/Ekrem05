@@ -31,6 +31,9 @@ jobs:
           TIME_RANGE: all_time
           LANG_COUNT: 10
           SHOW_LANGUAGE_PER_REPO: false
+          SHOW_PROJECTS: false
+          SHOW_OS: false
+          SHOW_EDITORS: false
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           TARGET_BRANCH: master # optional
