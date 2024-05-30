@@ -45,7 +45,7 @@ Authentication-With-React7 mins              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ```
 
 
- Last Updated on 30/05/2024 12:23:47 UTC
+ Last Updated on 30/05/2024 14:28:08 UTC
 <!--END_SECTION:waka-->
  <h1 align="center">Tech Background 🌐</h1>
     <br />
