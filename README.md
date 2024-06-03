@@ -146,6 +146,18 @@ Authentication-With-React1 hr 46 mins        ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
           height="60"
           alt="redux logo"
       /></a>
+      <a href="https://reactrouter.com/en/main">
+        <img
+          src="https://static-00.iconduck.com/assets.00/react-router-icon-2048x1116-jfeevj0l.png"
+          height="60"
+          alt="react-router logo"
+      /></a>
+      <a href="https://tanstack.com/query/latest">
+        <img
+          src="https://repository-images.githubusercontent.com/297489727/bd8bae00-60bf-11eb-8b0a-a0edcbfd5807"
+          height="60"
+          alt="tanstack logo"
+      /></a>
       <a href="https://jquery.com">
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"
