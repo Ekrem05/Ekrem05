@@ -167,12 +167,7 @@ Tanstack-Query           2 hrs 53 mins       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜�
         />
       </a>
       <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
-          alt="babel"
-          width="60"
-          height="60"
-        />
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="60" alt="babel logo"  />
       </a>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img
