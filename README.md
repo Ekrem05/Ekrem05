@@ -166,7 +166,6 @@ Tanstack-Query           2 hrs 53 mins       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜�
           alt="jquery logo"
         />
       </a>
-    
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
@@ -201,7 +200,7 @@ Tanstack-Query           2 hrs 53 mins       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜�
       </a>
         <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="babel logo"  />
-      </a>
+      </a>  
       <a href="https://firebase.google.com">
         <img
           src="https://skillicons.dev/icons?i=firebase"
