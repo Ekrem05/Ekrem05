@@ -96,16 +96,8 @@ Tanstack-Query           2 hrs 53 mins       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜�
       </a>
     </p>
     <h2>Frameworks 🚀</h2>
-    <p>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-          alt="react"
-          width="60"
-          height="60"
-        />
-      </a>
-      <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <p> 
+     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
           alt="dotnet"
@@ -119,6 +111,17 @@ Tanstack-Query           2 hrs 53 mins       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜�
           height="60"
           alt="dotnetcore logo"
         />
+      </a>
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+          alt="react"
+          width="60"
+          height="60"
+        />
+      </a>
+     <a href="https://nextjs.org" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"  width="60" height="60" alt="nextjs logo"  />
       </a>
     </p>
     <h2>Databases 📚</h2>
