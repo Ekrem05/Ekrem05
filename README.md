@@ -135,6 +135,20 @@ FilmDive                 5 hrs 14 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜�
           height="60"
         />
       </a>
+     <a
+        href="https://www.postgresql.org/"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="60" width="60" alt="postgresql logo" /> 
+      </a>
+     <a
+        href="https://www.mongodb.com/lp/cloud/atlas/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_emea-bg_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624383&adgroup=115749717743&cq_cmp=12212624383&gad_source=1&gclid=CjwKCAjwzIK1BhAuEiwAHQmU3sSxmfuRUQnoX0tdwZcisdPWe1oXCwiep6ChOz0sdQdx5KAN1K4CvRoCVf4QAvD_BwE"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <img src="https://cdn.simpleicons.org/mongodb/47A248" height="60" width="60"  alt="mongodb logo"  /> 
+      </a>
     </p>
     <h2>Libraries 🎨</h2>
     <p>
