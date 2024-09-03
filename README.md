@@ -70,6 +70,13 @@ ConsoleApp1              1 hr 33 mins        ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
           height="60"
         />
       </a>
+       <a
+        href="https://go.dev/"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <img src="https://skillicons.dev/icons?i=go" width="60" height="60" alt="go logo"  />
+      </a>
       <a href="https://www.haskell.org/" target="_blank" rel="noreferrer">
         <img
           src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg"
