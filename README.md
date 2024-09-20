@@ -1,8 +1,4 @@
-<h2>Hi, I'm Ekrem, a software developer with extensive experience in web development. Recently, I’ve started exploring system-level programming.</h2>
-    <h2>💻 Current Project</h2>
-    <p><strong>Project Name:</strong> HTTP-Server-from-scratch</p>
-    <p><strong>Description:</strong> A HTTP Server library with a router, written in Raw C</p>
-    <p><strong class="status">Status:</strong> Development...</p>
+<h1>Hi, I'm Ekrem, a software developer with extensive experience in web development.</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ekrem05&hide=issues&show_icons=true&theme=great-gatsby&bg_color=00000000)
 <!--START_SECTION:waka-->
