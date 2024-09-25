@@ -1,4 +1,7 @@
 <h1>Hi, I'm Ekrem, a software developer with extensive experience in web development.</h1>
+<h3>Currently learning Spring Boot <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+</h3>
+<br/> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ekrem05&hide=issues&show_icons=true&theme=great-gatsby&bg_color=00000000)
 <!--START_SECTION:waka-->
