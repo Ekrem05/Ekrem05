@@ -1,5 +1,5 @@
 <h1>Hi, I'm Ekrem, a software developer with extensive experience in web development.</h1>
-<h3>Currently learning Spring Boot <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+<h3>Currently learning Angular <img src="https://v7.angular.cn/assets/images/logos/angular/angular.svg" height="50" alt="angular logo"  />
 </h3>
 <br/> 
 
