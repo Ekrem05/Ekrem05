@@ -22,7 +22,7 @@
 ```
 
 
- Last Updated on 07/11/2024 18:39:13 UTC
+ Last Updated on 08/11/2024 18:39:28 UTC
 <!--END_SECTION:waka-->
  <h1 align="center">Tech Background 🌐</h1>
     <br />
