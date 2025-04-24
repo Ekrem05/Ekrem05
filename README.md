@@ -1,6 +1,4 @@
 <h1>Hi, I'm Ekrem, a software developer with extensive experience in web development.</h1>
-<h3>Currently learning Angular <img src="https://v7.angular.cn/assets/images/logos/angular/angular.svg" height="50" alt="angular logo"  />
-</h3>
 <br/> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ekrem05&hide=issues&show_icons=true&theme=great-gatsby&bg_color=00000000)
